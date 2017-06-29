@@ -22,6 +22,7 @@
 #    tekstitiedoston kokoa pitää seurata, ja laittaa joku raja sen koolle.
 
 
+class NumeronLajittelu:
 
 
 #ensin tehdään funktio, joka pyörittää lukuja
